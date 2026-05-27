@@ -13,6 +13,11 @@ Mostly Python.
 #### Recent activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#4551](https://github.com/pipecat-ai/pipecat/pull/4551) in [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat)
+2. ℹ️ Reopened PR [#4551](https://github.com/pipecat-ai/pipecat/pull/4551) in [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat)
+3. 🗣 Commented on [#4551](https://github.com/pipecat-ai/pipecat/pull/4551#issuecomment-4554703697) in [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat)
+4. ❌ Closed PR [#4551](https://github.com/pipecat-ai/pipecat/pull/4551) in [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat)
+5. 💪 Opened PR [#4551](https://github.com/pipecat-ai/pipecat/pull/4551) in [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat)
 <!--END_SECTION:activity-->
 
 ---
